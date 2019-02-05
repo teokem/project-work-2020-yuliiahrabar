@@ -1,0 +1,24 @@
+name: deadlayer
+channels:
+  - conda-forge
+  - defaults
+  - costrouc
+dependencies:
+  - nodejs
+  - python=3.6.5
+  - ipykernel
+  - ipympl
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - cython
+  - numpy
+  - scipy
+  - pandas
+  - nbconvert
+  - nbstripout
+  - pyne=0.5.11=py36_blas_openblas_0
+  - pip
+  - pip:
+    - pyyaml
+  - pysrim
