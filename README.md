@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/)
 
-# Calculations of beam and target related properties
+# Calculations of beam and target related properties and further energy losses
 
 ## Running the Jupyter-Notebook
 
