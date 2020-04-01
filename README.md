@@ -11,14 +11,17 @@ It is possible to run the notebook on your local computer as follows:
 ```bash
 git clone https://github.com/teokem/project-work-2020-yuliiahrabar.git
 ```
-3. Install and activate the `fission` environment described by the file [`environment.yml`](/environment.yml)  by running the following in a terminal:
+3. Install and activate the `fission_env` environment described by the file [`environment.yml`](/environment.yml)  by running the following in a terminal:
 
 ```bash
 conda env create -f environment.yml
-conda activate fission
+conda activate fission_env
 ```
 4. Run **GEANT4_FissionFragments.ipynb** notebook:
 
 ```bash
 jupyter notebook GEANT4_FissionFragments.ipynb
 ```
+5. Run everything by clicking
+
+_Kernel -> Restart & Run All_
