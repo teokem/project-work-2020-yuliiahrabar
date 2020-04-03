@@ -1,5 +1,9 @@
 # Study of symmetric and asymmetric fission of Copernicium-284
 
+
+DOI for the project:
+[![10.5281/zenodo.3738969](https://zenodo.org/badge/DOI/10.5281/zenodo.3738969.svg)](https://doi.org/10.5281/zenodo.3738969)
+
 ## Running the Jupyter-Notebook
 
 For _COMPUTE course_ project please check **GEANT4_FissionFragments.ipynb** notebook.
